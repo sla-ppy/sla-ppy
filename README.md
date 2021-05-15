@@ -1,7 +1,7 @@
 I have a deep passion for programming, that I wish to share with others.
 
-* Working on: Picking up C++ programming as a daily routine again.
-* Currently reading: C++ Primer (5th Edition), but thinking about switching to a game development book.
-* Experimenting with: Streak habit building, building good habits in general.
+* Learning ncurses to make a dungeon crawling style project.
+* Waiting to get started on a Gardening Application project with the new crew.
+* Rewriting my CV.
 
 Dont be a stranger.
