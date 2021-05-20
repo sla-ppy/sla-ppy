@@ -21,4 +21,5 @@ Contact:
 * Add me over Discord: example#0000
 * You can also find me over Telegram: ty.example
 ```
-### [For inquires, click me!](mailto:demo@demo.com) 
+### [For inquires, click me!](mailto:demo@demo.com)
+![](/cpp.png)
