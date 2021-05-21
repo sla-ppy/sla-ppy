@@ -11,7 +11,7 @@ I'll make time for you.
 <br>
 <div>
 
-#### You'd like me to collaborate?
+#### You'd like me to collaborate on your project?
 My vigilance for fun, new projects never falters.
 <br>I'll gladly contribute to anything that is satisfying to work on!
 <br>
