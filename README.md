@@ -5,7 +5,7 @@
 >* Waiting to get started on a gardening application with some new friends. *zZz*
 >* Rewriting my CV with a new sense of effort.
 
-#### If you have any questions, or you'd like to recieve help from someone, maybe you are just starting out:
+#### If you have any questions, or you'd like to receive help from someone, maybe you are just starting out:
 I'll make time for you.
 <br>Dont be a stranger.
 <br>
