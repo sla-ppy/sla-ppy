@@ -22,4 +22,4 @@ Contact:
 ```
   
 ### For inquires, click the image!
-### [![](/cpp.png)](mailto:demo@demo.com)
+### [![](/cpp.png)](mailto:example@example.com)
