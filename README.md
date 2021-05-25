@@ -1,5 +1,4 @@
 ## My very first portfolio is actually live, but work will continue steadily until its in a presentable state!
-### [sla-ppy.com](http://sla-ppy.com)
 #### This wouldn't exist right now without the help of lionkor. 
 #### I appreciate having the best mentor I could ever ask for.
 <br>
