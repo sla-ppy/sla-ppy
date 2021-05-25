@@ -1,27 +1,23 @@
-## My very first portfolio is actually live, but work will continue steadily until its in a presentable state!
-#### This wouldn't exist right now without the help of lionkor. 
-#### I appreciate having the best mentor I could ever ask for.
+# My very first portfolio is actually live!!!
+> This wouldn't exist right now without the help of lionkor.
+> <br>I appreciate having the best mentor I could ever ask for.
 <br>
 
-### I have a deep passion for programming, that I wish to share with others.
+## I have a profound passion for programming, that I wish to share with others.
+```markdown
+# If you have any questions, or you are just lost and dont know where to start with programming:
+> I will take my time to answer you with the best of my ability.
+> Do message me! Contacts down below! :)
+```
 
->* Falling in love with working on networks, thinking about when to work on creating my own SSL certificate.
->* Learning ncurses to make a dungeon crawling style project, written in 'C++' of course.
->* Rewriting my CV with a new sense of effort.
-
-#### If you have any questions, or you'd like to receive help from someone, maybe you are just starting out:
-I'll make time for you.
-<br>Dont be a stranger.
-<br>
-
-#### You'd like me to collaborate on your project?
-My vigilance for fun, new projects never falters.
-<br>I'll gladly contribute to anything which is satisfying to work on!
-<br>
-  
+```markdown
+# You'd like me to collaborate on your project?
+> I'll gladly contribute to any projects that I take an interest in.
+> You are encouraged to get in contact with me if you'd like me on your team.
+```
 ```markdown
 Contact:
-* Add me over Discord: example#0000
+* Add me over Discord: sla-ppy#2023
 * You can also find me over Telegram: ty.example
 ```
 <br>
