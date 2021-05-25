@@ -7,16 +7,16 @@
 ```markdown
 # If you have any questions, or you are just lost and dont know where to start with programming:
 > I will take my time to answer you with the best of my ability.
-> Do message me! Contacts down below! :)
+> Do message me! My contacts are down below! :)
 ```
 
 ```markdown
 # You'd like me to collaborate on your project?
 > I'll gladly contribute to any projects that I take an interest in.
-> You are encouraged to get in contact with me if you'd like me on your team.
+> You are encouraged to get in contact, if you'd like me on your team.
 ```
 ```markdown
-Contact:
+Contacts:
 * Add me over Discord: sla-ppy#2023
 * You can also find me over Telegram: ty.example
 ```
