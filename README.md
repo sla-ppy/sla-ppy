@@ -23,7 +23,6 @@ My vigilance for fun, new projects never falters.
 Contact:
 * Add me over Discord: example#0000
 * You can also find me over Telegram: ty.example
-* Email: Check below!
 ```
 <br>
   
