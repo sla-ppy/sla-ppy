@@ -1,4 +1,4 @@
-# My very first portfolio is actually live!!!
+# Work continues as I 
 > This wouldn't exist right now without the help of lionkor.
 > <br>I appreciate having the best mentor I could ever ask for.
 <br>
@@ -15,15 +15,16 @@
 > I'll gladly contribute to any projects that I take an interest in.
 > If you feel like I would be a good fit for the team, get in contact with me!
 ```
-```markdown
-Contacts:
-* Add me over Discord: sla-ppy#2023
-* You can also find me over Telegram: ty.example
-```
+<br>
+
+## Contacts:
+* Add me over Discord: <a href="https://discord.com/users/545219738398097408">sla-ppy#2023</a>
+* You can also find me over Telegram: <a href="t.me/sla_ppy">t.me/sla_ppy</a>
+* Send me an email: <a href="mailto:jackyissocial@gmail.com">jackyissocial@gmail.com</a>
 <br>
   
 <p align="center">
-  <strong style="font-size:80px;">For inquries, click the image!</strong>
+  <strong style="font-size:80px;">For serious inquries, click the image!</strong>
     <br>▒
     <br>▒
     <br>▒
