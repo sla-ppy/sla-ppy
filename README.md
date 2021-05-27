@@ -13,7 +13,7 @@
 ```markdown
 # You'd like me to collaborate on your project?
 > I'll gladly contribute to any projects that I take an interest in.
-> You are encouraged to get in contact, if you'd like me on your team.
+> If you feel like I would be a good fit for the team, get in contact with me!
 ```
 ```markdown
 Contacts:
