@@ -1,8 +1,3 @@
-# Work continues as I 
-> This wouldn't exist right now without the help of lionkor.
-> <br>I appreciate having the best mentor I could ever ask for.
-<br>
-
 ## I have a profound passion for programming, that I wish to share with others.
 ```markdown
 # If you have any questions, or you are just lost and dont know where to start with programming:
