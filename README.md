@@ -12,7 +12,7 @@
 ```
 <br>
 
-## Contacts:
+## Nonformal contacts:
 * Add me over Discord: <a href="https://discord.com/users/545219738398097408">sla-ppy#2023</a>
 * You can also find me over Telegram: <a href="https://t.me/sla_ppy">t.me/sla_ppy</a>
 * Or you could send an email to me: <a href="mailto:jackyissocial@gmail.com">jackyissocial@gmail.com</a>
