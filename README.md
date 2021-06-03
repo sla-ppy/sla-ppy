@@ -19,7 +19,7 @@
 <br>
   
 <p align="center">
-  <strong style="font-size:80px;">For serious inquries, click the image!</strong>
+  <strong>For serious inquries, click the image!</strong>
     <br>▒
     <br>▒
     <br>▒
