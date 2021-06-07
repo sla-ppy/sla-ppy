@@ -1,10 +1,21 @@
-## I have a profound passion for programming, that I wish to share with others.
+## Projects:
+```markdown
+# My currently active projects:
+> Learning Data Structures!
+> Working on my resume.
+> Creating the second version of sla-ppy.com!
+
+# Short-term plans for the future:
+> Continue learning about C++ with the Advanced C++ course on Udemy
+> Finish documenting the ncurses, panel, menu, forms libraries, so I'll be able to use it normally.
+```
+## Questions?
 ```markdown
 # If you have any questions, or you are just lost and dont know where to start with programming:
 > I will take my time to answer you with the best of my ability.
 > Do message me! My contacts are down below! :)
 ```
-
+## Collaboration:
 ```markdown
 # You'd like me to collaborate on your project?
 > I'll gladly contribute to any projects that I take an interest in.
