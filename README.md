@@ -30,13 +30,17 @@
 <br>
   
 <p align="center">
-  <strong>For serious inquries, click the image!</strong>
-    <br>▒
-    <br>▒
-    <br>▒
-  <br>▒▒▒▒▒
-   <br>▒▒▒
-    <br>▒ 
-     <br>
-    <a href="mailto:dev@sla-ppy.com"><img src="/sla-ppy.png" alt="sla-ppy.png"></a>
+<strong>For serious inquries, click the image!</strong>
+<br>▒
+<br>▒
+<br>▒
+<br>▒▒▒▒▒
+<br>▒▒▒
+<br>▒ 
+<br>
+<a href="mailto:dev@sla-ppy.com"><img src="/sla-ppy.png" alt="sla-ppy.png"></a>
+</p>
+
+<p align="center">
+Copyright © 2021, sla-ppy. All rights reserved.
 </p>
