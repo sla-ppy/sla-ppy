@@ -38,6 +38,5 @@
    <br>▒▒▒
     <br>▒ 
      <br>
-      <br>
-    <a href="mailto:dev@sla-ppy.com"><img src="/cpp.png" alt="cpp.png"></a>
+    <a href="mailto:dev@sla-ppy.com"><img src="/sla-ppy.png" alt="sla-ppy.png"></a>
 </p>
