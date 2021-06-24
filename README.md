@@ -9,12 +9,16 @@
 > Continue learning about C++ with the Advanced C++ course on Udemy
 > Finish documenting the ncurses, panel, menu, forms libraries, so I'll be able to use it normally.
 ```
+<br>
+
 ## Questions?
 ```markdown
 # If you have any questions, or you are just lost and dont know where to start with programming:
 > I will take my time to answer you with the best of my ability.
 > Do message me! My contacts are down below! :)
 ```
+<br>
+
 ## Collaboration:
 ```markdown
 # You'd like me to collaborate on your project?
@@ -23,13 +27,13 @@
 ```
 <br>
 
-## Nonformal contacts:
+## Informal Contacts:
 * Add me over Discord: <a href="https://discord.com/users/545219738398097408">sla-ppy#2023</a>
 * You can also find me over Telegram: <a href="https://t.me/sla_ppy">t.me/sla_ppy</a>
 <br>
   
 <p align="center">
-<strong>To get in contact with me over email, click the image!</strong>
+<strong>For serious inquiries, click the image!</strong>
 <br>▒
 <br>▒
 <br>▒
@@ -41,5 +45,5 @@
 </p>
 
 <p align="center">
-Copyright © 2021, sla-ppy. All rights reserved.
+<em>Copyright © 2021, sla-ppy. All rights reserved.</em>
 </p>
