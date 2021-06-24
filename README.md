@@ -37,7 +37,7 @@
 <br>▒▒▒
 <br>▒ 
 <br>
-<a href="mailto:dev@sla-ppy.com"><img src="/sla-ppy.png" alt="sla-ppy.png"></a>
+<a href="mailto:dev@sla-ppy.com"><img src="/sla-ppy_v2.png" alt="sla-ppy_v2.png"></a>
 </p>
 
 <p align="center">
