@@ -10,15 +10,16 @@
 
 ## If you have any questions, or you are just lost and not sure where to start with programming:
 <p align="center">
-<a href="https://discord.gg/5VMMEkhqsF"><img src="/HL_logo_halved.png" alt="HL_logo.png"></a>
-</p>
-Drop by [Hacker Lounge](https://discord.gg/5VMMEkhqsF)!<br>
+<a href="https://discord.gg/5VMMEkhqsF"><img src="/HL_logo_quarter.png" alt="HL_logo.png"></a>
+<br>
+Drop by <a href="https://discord.gg/5VMMEkhqsF">Hacker Lounge</a>!<br>
 <br>
 Our community of devs is active and the server is well-maintained so you always have a place to come to, if you want to learn.<br>
 I will take my time to answer you with the best of my ability.<br>
-You can also follow our progress over [Trello](https://trello.com/b/BbYxNjuU/hacker-lounge)!<br>
+You can also follow our progress over <a href="https://trello.com/b/BbYxNjuU/hacker-lounge">Trello</a>!<br>
 <br>
 Join the conversation!<br>
+</p>
 <br>
 
 ## Collaboration:
