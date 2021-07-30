@@ -9,6 +9,9 @@
 <br>
 
 ## If you have any questions, or you are just lost and not sure where to start with programming:
+<p align="center">
+<a href="https://discord.gg/5VMMEkhqsF"><img src="/HL_logo.png" alt="HL_logo.png"></a>
+</p>
 Drop by [Hacker Lounge](https://discord.gg/5VMMEkhqsF)!<br>
 <br>
 Our community of devs is active and the server is well-maintained so you always have a place to come to, if you want to learn.<br>
