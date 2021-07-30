@@ -10,7 +10,7 @@
 
 ## If you have any questions, or you are just lost and not sure where to start with programming:
 <p align="center">
-<a href="https://discord.gg/5VMMEkhqsF"><img src="/HL_logo_shortened_cropped.png" alt="HL_logo.png"></a>
+<a href="https://discord.gg/5VMMEkhqsF"><img src="/HL_logo_v2.png" alt="HL_logo.png"></a>
 <br>
 Drop by <a href="https://discord.gg/5VMMEkhqsF">Hacker Lounge</a>!<br>
 <br>
