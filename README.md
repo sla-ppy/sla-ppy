@@ -10,6 +10,7 @@
 
 ## If you have any questions, or you are just lost and not sure where to start with programming:
 Drop by [Hacker Lounge](https://discord.gg/5VMMEkhqsF)!<br>
+<br>
 Our community of devs is active and the server is well-maintained so you always have a place to come to, if you want to learn.<br>
 I will take my time to answer you with the best of my ability.<br>
 You can also follow our progress over [Trello](https://trello.com/b/BbYxNjuU/hacker-lounge)!<br>
