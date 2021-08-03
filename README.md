@@ -32,7 +32,7 @@ Join the conversation!<br>
 <br>
 
 ## Informal Contacts:
-* Add me over Discord: <a href="https://discord.com/users/545219738398097408">sla-ppy#2023</a>
+* Add me over Discord: sla-ppy#2023
 * You can also find me over Telegram: <a href="https://t.me/sla_ppy">t.me/sla_ppy</a>
 * Or reach out to me over [Hacker Lounge](https://discord.gg/5VMMEkhqsF), which I am co-hosting with [lionkor](https://github.com/lionkor)!
 <br>
