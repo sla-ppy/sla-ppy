@@ -1,10 +1,11 @@
 ## Projects:
 ```markdown
 # My currently active projects:
+> Learning advanced C++ techniques from John Purcell.
 > Working on sla-ppy.com
 > Finishing up yahtzee
 > Finalizing my current version for the resume, actively looking for a job.
-> Actively managing and improving Hacker Lounge, our very own virtual hackerspace which I am co-hosting with lionkor!
+> Actively managing and improving Hacker Lounge, our very own virtual hackerspace which I am co-hosting with lionkor and Milou!
 ```
 <br>
 
