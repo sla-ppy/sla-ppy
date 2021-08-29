@@ -1,10 +1,11 @@
 ## Projects:
 ```markdown
 # My currently active projects:
-> Learning advanced C++ techniques from John Purcell.
+> Working with RTSPlex to develop a new game
+> Learning advanced C++ techniques from John Purcell
 > Working on sla-ppy.com
 > Finishing up yahtzee
-> Finalizing my current version for the resume, actively looking for a job.
+> Finalizing my current version for the resume, actively looking for a job
 > Actively managing and improving Hacker Lounge, our very own virtual hackerspace!
 ```
 <br>
