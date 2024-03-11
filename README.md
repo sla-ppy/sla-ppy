@@ -5,12 +5,12 @@ Szervusz, this is sla-ppy's domain!
 I am an undergrad student at NJE-GAMF, which is where I put most of my attention and effort to.
 I'd like to achieve an MSc in Electrical Engineering.
 
-Field of Study: Computer Science Engineering.
-Specialization: Electronics, Industrial Informatics
+## Field of Study: Computer Science Engineering
+**Specialization:** Electronics, Industrial Informatics
 
 Firm believer of studying outside of university as most of what I know today is self-taught or has been taught to me by others through my own spent effort on asking them the right questions, and of course them being kind and friendly by explaining it to me.
 
-My current interests are composed of:
+## My current interests are composed of:**
 - Becoming a radio amateur!
 - Analog Electronics, Soldering, 3D Printing, PCB design, every tid-bit skill that comes with the lifestyle! 
 - C/C++ programming
