@@ -38,6 +38,9 @@ Interests outside of the field:
 - [ ] Build the campfire generator circuit
 
 ## Long term goals for 2025:
-- Establish my own hand-built radio station by the end of 2025
-- Finish Tanenbaum's 3 core books on: Computer Architecture, Networking, Operating Systems
-- Try my hand at ethical hacking through course material from EC-Council 
+- [ ] Establish my own hand-built radio station by the end of 2025
+- [ ] Finish Tanenbaum's 3 core books on: Computer Architecture, Networking, Operating Systems
+- [ ] Try my hand at ethical hacking through course material from EC-Council 
+- [ ] Implement order on my bookshelves
+- [ ] With a stable income, build a glasshouse for my mother
+- [ ] With a stable income, build a brick smoker/grill/oven 
