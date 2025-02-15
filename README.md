@@ -27,15 +27,15 @@ Interests outside of the field:
 ---
 
 ## Short-term goals for February:
-- Finish the Rust Book
-- Finish Rustlings
-- Design the campfire sound effect circuit, create a custom light panel for display, model the enclosure for it
-- Fully plan out Dogscillator, an RX/TX circuit pair which is a vibration-based device for deaf dogs
+- [ ] Finish Rust Book
+- [ ] Finish Rustlings
+- [ ] Design the campfire sound effect circuit, create a custom light panel for display, model the enclosure for it
+- [ ] Fully plan out Dogscillator, an RX/TX circuit pair which is a vibration-based device for deaf dogs
 
 ## Short-term goals for March:
-- Finish my BFO metal detector
-- Establish my website as usable
-- Build the campfire generator circuit
+- [ ] Finish my BFO metal detector
+- [ ] Establish my website as usable
+- [ ] Build the campfire generator circuit
 
 ## Long term goals for 2025:
 - Establish my own hand-built radio station by the end of 2025
