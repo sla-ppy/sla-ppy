@@ -30,6 +30,8 @@ Interests outside of the field:
 - [X] Finished a guessing game in Java
 - [X] Finished Hangman in Java 
 
+---
+
 ## Short-term goals for February:
 - [ ] Finish Rust Book
 - [ ] Finish Rustlings
