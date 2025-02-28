@@ -28,20 +28,19 @@ Interests outside of the field:
 
 ## Achievements for February:
 - [X] Finished a guessing game in Java
-- [X] Finished Hangman in Java 
+- [X] Finished Hangman in Java
+- [X] Introduced myself to REST API, learned about CRUD
+- [X] Learnt about HTTP requests, network basics, keen on furthering study regarding networking skills 
 
 ---
 
-## Short-term goals for February:
+## Short-term goals for March:
+- [ ] Finish a clean implementation of a HTTP 1.0 server in C
+- [ ] Compile list of future programming projects
 - [ ] Finish Rust Book
 - [ ] Finish Rustlings
-- [ ] Design the campfire sound effect circuit, create a custom light panel for display, model the enclosure for it
-- [ ] Fully plan out Dogscillator, an RX/TX circuit pair which is a vibration-based device for deaf dogs
-
-## Short-term goals for March:
 - [ ] Finish my BFO metal detector
 - [ ] Establish my website as usable
-- [ ] Build the campfire generator circuit
 
 ## Long term goals for 2025:
 - [ ] Enter the job market and move out <3
@@ -50,3 +49,8 @@ Interests outside of the field:
 - [ ] Implement order on my bookshelves
 - [ ] With a stable income, build a glasshouse by hand
 - [ ] With a stable income, build a brick smoker/grill/oven by hand
+
+## Sidequests:
+- [ ] Build the campfire generator circuit
+- [ ] Design the campfire sound effect circuit, create a custom light panel for display, model the enclosure for it
+- [ ] Fully plan out Dogscillator, an RX/TX circuit pair which is a vibration-based device for deaf dogs
