@@ -15,7 +15,7 @@ These are my interests within the field:
 - Analog electronics, soldering, PCB design, electrotechnics
 - Amateur radio
 - 3D printing, 3D modelling
-- Programming, Rust, C/C++
+- Programming, Rust, C99, C++
 - Low-level engineering, digital electronics, computer architecture
 - Mathematics, physics for applied sciences
 
