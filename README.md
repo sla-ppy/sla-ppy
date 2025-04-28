@@ -1,25 +1,45 @@
-## About:
-Hi!
-My name is Miklós, and I finished my studies in BSc Computer Science Engineering.\
-I am Junior level Software Developer.\
-Currently entering the job market.
+## Repo help:
+`[F]inished`\
+`[U]nfinished`\
+`[A]bandoned`\
+`[S]pecial`
 
-## Field of Study: Computer Science Engineering
-I will pursue further studies in either MSc Computer Science Engineering or MSc Electrical Engineering.\
-Afterwards I'll earn my PhD.
+## About:
+Hello and welcome!\
+My name is Miklós, and I finished my studies in BSc computer science engineering\
+I am a junior level software developer currently entering the job market
+
+## Further studies:
+For further studies I am yet to consider MSc in Computer Science Engineering or Electrical Engineering
 
 ## Interests:
-My firm belief is that studying outside of university is what got me here today, as most of what I know is either self-taught or has been taught to me by others through joined effort on asking them the right questions, and naturally them being kind by patiently explaining it to me.
-
-These are my interests within the field:
-- Analog electronics, soldering, PCB design, electrotechnics
+- Analog electronics, PCB design, electrotechnics, soldering
 - Amateur radio
-- 3D printing, 3D modelling
+- 3D scanning, modelling, printing
 - Programming, Rust, C99, C++
-- Low-level engineering, digital electronics, computer architecture
-- Mathematics, physics for applied sciences
+- Low-level engineering, digital electronics, computer architecture, sockets and network programming
+- Mathematics, physics
 
-Interests outside of the field:
-- Welding, carpentry / woodworking
-- Cooking
-- Proper excercise, yoga, weightlifting, cardio and running
+I also have a strong interest towards welding, carpentry, woodworking, cooking, yoga, weighted training and calisthenics, cardio and running
+
+## Belief:
+Be patient\
+Its about the journey
+
+Become aware, study, implement\
+Being self-taught is non-negotiable
+
+Its okay to fail\
+Error, acknowledge, accept, implement change, learn from it
+
+Its okay to ask for help\
+There is no place for ego\
+Ask excellently\
+You don't have to know everything
+
+Do not take all advice
+
+If all seems unreachable\
+Take a break\
+But return, due time\
+For it is within your grasp
